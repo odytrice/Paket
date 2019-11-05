@@ -1,3 +1,15 @@
+#### 5.231.0 - 2019-11-05
+* PERFORMANCE: Use NuGet v3 as default source in paket init
+
+#### 5.230.0 - 2019-11-05
+* PERFORMANCE: Use package details from extracted files
+
+#### 5.229.0 - 2019-11-04
+* PERFORMANCE: Prefer latest AutoComplete server
+
+#### 5.227.0 - 2019-10-29
+* Support for github NuGet repos - https://github.com/fsprojects/Paket/issues/3692
+
 #### 5.226.0 - 2019-10-17
 * New paket.targets to support global and local dotnet paket for old style projetcs - https://github.com/fsprojects/Paket/issues/3687
 
